@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName " Statistics"
+AuthName "aliparsa.com Statistics"
+AuthUserFile /var/chroot/home/content/36/6372436/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html
